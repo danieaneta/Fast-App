@@ -1,6 +1,5 @@
--install cmake
+-Install cmake
 https://cmake.org/download/
--install dlib 
-https://pypi.org/project/dlib/
--install chocolatay 
+
+-Install chocolatay 
 https://chocolatey.org/install#individual
