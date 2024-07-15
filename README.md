@@ -33,6 +33,6 @@ Official Cuda Release Page: https://developer.nvidia.com/cuda-toolkit-archive
 4. PIP install PyTorch (make sure that it is CUDA enabled) - Just as a reminder that you must have Python installed into your system in order to use the pip command on your terminal/command line. 
 https://pytorch.org/ - ex. pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-5. Restart your system and you should have CUDA Toolkit installed into your hardware.
+5. Restart your system and you should have CUDA Toolkit installed into your system.
 To check for successful CUDA installation, go to your programs (Apps > Installed Apps) amd search for CUDA. You should be able to see your CUDA Toolkit version installed.  
 
